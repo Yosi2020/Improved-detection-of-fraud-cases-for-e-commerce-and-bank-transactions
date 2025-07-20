@@ -105,7 +105,7 @@ model_api/
 ### Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ElbetelTaye/Fraud_detection.git
+   git clone https://github.com/Yosi2020/Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions.git
    cd fraud_detection
    ```
 
