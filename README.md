@@ -19,7 +19,7 @@ This repository contains code for training, saving, and interpreting machine lea
 
 ## Project Structure
 ```
-fraud-detection-project/
+Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions/
 │
 ├── .github/workflows/
 │   └── unittests.yml
