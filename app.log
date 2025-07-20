@@ -322,3 +322,7 @@
 2025-07-20 10:56:10,898 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\image.py', reloading
 2025-07-20 10:56:10,898 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\transformers.py', reloading
 2025-07-20 10:56:10,898 - INFO -  * Detected change in 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python38\\Lib\\site-packages\\shap\\utils\\transformers.py', reloading
+2025-07-20 10:56:13,171 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-20 10:56:26,765 - WARNING -  * Debugger is active!
+2025-07-20 10:56:26,819 - INFO -  * Debugger PIN: 130-824-618
+2025-07-20 10:56:27,250 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
