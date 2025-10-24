@@ -7,7 +7,3 @@ matplotlib
 scikit-learn
 dash
 plotly
-pandas
-datetime
-socket
-struct
