@@ -4,9 +4,9 @@ name: Run Unit Tests
 
 on:
   push:
-    branches: [ main, task1 ]  # Specify the branches you want the tests to run on
+    branches: [main, task1]  # Run tests on pushes to these branches
   pull_request:
-    branches: [ main, task1 ]
+    branches: [main, task1]  # Run tests on PRs targeting these branches
 
 jobs:
   test:
@@ -19,11 +19,13 @@ jobs:
     - name: Set up Python environment
       uses: actions/setup-python@v4
       with:
-        python-version: '3.x'  # Specify your Python version
+        python-version: '3.10'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    
+    - name: Run unit tests
+      run: |
+        pytest  # Replace with your test runner if different
